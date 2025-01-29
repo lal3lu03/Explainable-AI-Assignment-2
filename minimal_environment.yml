@@ -1,0 +1,17 @@
+name: xai_model_explanation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - jupyterlab
+  - ipython
+  - pytorch-tabnet
+  - pip
+  - pip:
+      - lime
+      - ipywidgets

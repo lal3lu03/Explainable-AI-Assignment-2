@@ -1,0 +1,22 @@
+{
+    "data_path": "src/data/weatherAUS.csv",
+    "model_path": "models/rain_predictor_model",
+    "preprocessor_path": "models/preprocessor.pkl",
+    "num_epochs": 200,
+    "batch_size": 1024,
+    "virtual_batch_size": 128,
+    "model_params": {
+        "n_d": 64,
+        "n_a": 64,
+        "n_steps": 5,
+        "gamma": 1.5,
+        "n_independent": 2,
+        "n_shared": 2,
+        "lambda_sparse": 1e-4,
+        "momentum": 0.7,
+        "clip_value": 2.0,
+        "learning_rate": 0.02,
+        "epsilon": 1e-15,
+        "cat_emb_dim":2
+    }
+}
