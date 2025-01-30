@@ -14,10 +14,10 @@ For the intermediate submission, please enter the group and dataset information.
 
 | Student ID    | First Name  | Last Name      | E-Mail                  | Workload [%] |
 | --------------|-------------|----------------|-------------------------|--------------|
-| 12005938      | Enes        | Sovtic         |<enes.sovtic@hotmail.com>  |25%           |
-| 12005600      | Paul        | Dobner-Dobenau |<paul.dobner98@gmail.com>  |25%           |
-| 11942708      | Maximilian  | Hageneder      |<max.hageneder@gmail.com>  |25%           |
-| 12007306      | Kilian      | Truong         |<kilian.truong@outlook.com>|25%           |
+| xxxxxxxx      | xxxxx        | xxxxx         |xxxxxxxx  |25%           |
+| xxxxxxxx      | Paul        | Dobner-Dobenau |xxxxxxxx  |25%           |
+| xxxxxxxx      | Maximilian  | Hageneder      |xxxxxxxx  |25%           |
+| xxxxxxxx      | Kilian      | Truong         |xxxxxxxx|25%           |
 
 **Dataset**
 
